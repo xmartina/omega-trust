@@ -94,7 +94,7 @@
                 <div class="col-lg-2">
                     <div class="logo-gp">
                         <a href="JavaScript:void(0)">
-                            <img src="img/logo-b.png" alt="logo" class="w-75">
+                            <img src="/img/logo-b.png" alt="logo" class="w-75">
                         </a>
                         <i class="fa fa-solid fa-bars desplay" id="nav-icon4"></i>
                     </div>
@@ -108,7 +108,7 @@
                                 </li>
 
                                 <li class="dropdown dropdown-1">
-                                    <a href="?a=about">
+                                    <a href="../?a=about">
                                         About
                                     </a>
                                 </li>
@@ -118,15 +118,15 @@
                                 </li>
 
                                 <li class="dropdown dropdown-1">
-                                    <a href="?a=faq">FAQ</a>
+                                    <a href="../?a=faq">FAQ</a>
                                 </li>
 
                                 <li class="dropdown dropdown-1">
-                                    <a href="?a=rules">Terms</a>
+                                    <a href="../?a=rules">Terms</a>
                                 </li>
 
                                 <li class="dropdown dropdown-1">
-                                    <a href="?a=support">Contact</a>
+                                    <a href="../?a=support">Contact</a>
                                 </li>
                             </ul>
                         </nav>
@@ -174,7 +174,7 @@
     <div class="mobile-nav" id="mobile-nav" style="display: block;">
         <div class="res-log ">
             <a href="/">
-                <img src="img/logo-b.png" alt="Responsive Logo" class="w-75">
+                <img src="/img/logo-b.png" alt="Responsive Logo" class="w-75">
             </a>
         </div>
         <ul>
@@ -183,7 +183,7 @@
             </li>
 
             <li>
-                <a href="?a=about">About</a>
+                <a href="../?a=about">About</a>
             </li>
 
             <li class="">
@@ -191,25 +191,25 @@
             </li>
 
             <li class="">
-                <a href="?a=faq">FAQ</a>
+                <a href="../?a=faq">FAQ</a>
             </li>
 
             <li class="">
-                <a href="?a=rules">Terms</a>
+                <a href="../?a=rules">Terms</a>
             </li>
 
             <li class="">
-                <a href="?a=support">Contact</a>
+                <a href="../?a=support">Contact</a>
             </li>
 
             <li class="menu-item-has-children">
                 <a href="javascript:void(0);">Account</a>
                 <ul class="sub-menu">
                     <li>
-                        <a href="?a=signup">Signup</a>
+                        <a href="../?a=signup">Signup</a>
                     </li>
                     <li>
-                        <a href="?a=login">Login</a>
+                        <a href="../?a=login">Login</a>
                     </li>
                 </ul>
             </li>
