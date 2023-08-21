@@ -377,7 +377,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 
 
-
+<!-- tidio-->
+<script src="//code.tidio.co/vufrtvchibd06azqwxawy2bewbjzgxmf.js" async></script>
 <!-- slick-->
 
 </body>
