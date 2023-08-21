@@ -8,9 +8,9 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{$pageName} | Golden TradeX</title>
+    <title>{$pageName} | Omega Trust Investments</title>
 
-    <link rel="icon" href="img/logo-icon.png">
+    <link rel="icon" href="/img/logo-icon.png">
 
     <!--font star-->
 
