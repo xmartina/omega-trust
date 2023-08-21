@@ -251,7 +251,7 @@
 
 
 
-                    <h3>© Copyright <a href="javascript:void(0)">2023 Golden Tradex LTD</a> All Rights Reserved.</h3>
+                    <h3>© Copyright <a href="javascript:void(0)">2023 Omega Trust Investment</a> All Rights Reserved.</h3>
 
 
 

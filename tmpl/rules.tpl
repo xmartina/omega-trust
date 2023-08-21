@@ -1,6 +1,7 @@
 {$aboutUrl = "?a=about"}
-{$appName = "Easy Crypto Trading LTD"}
+{$siteName = "Omega Trust Investment"}
 {$signUpUrl = "?a=signup"}
+{siteURL = "omegatrustinvestment.com"
 {$resetPasswordUrl = "?a=forgot_password"}
 
 
@@ -13,7 +14,7 @@
             <div class="pl-4">
                 <h3>Terms of Use:</h3>
 
-                Acceptance of Terms: By accessing and using goldentradex.online ("the Website"), you agree to abide by these Terms of Use.
+                Acceptance of Terms: By accessing and using {$siteURL} ("the Website"), you agree to abide by these Terms of Use.
                 <p class="my-3"></p>
               <b>Investment Risks:</b>   The content and information provided on the Website are for informational purposes only and do not constitute financial advice. All investments carry risks, and you are solely responsible for your investment decisions.
                 <p class="my-3"></p>
@@ -25,11 +26,11 @@
                 <p class="my-3"></p>
                <b>Third-Party Links:</b>  The Website may contain links to third-party websites. We are not responsible for the content, privacy practices, or actions of these websites.
                 <p class="my-3"></p>
-               <b>Intellectual Property:</b>  The content and materials on the Website, including logos, trademarks, and text, are owned by Golden TradeX LTD and are protected by intellectual property laws.
+               <b>Intellectual Property:</b>  The content and materials on the Website, including logos, trademarks, and text, are owned by {$siteName} LTD and are protected by intellectual property laws.
                 <p class="my-3"></p>
                <b>Disclaimer of Warranties:</b>  The Website is provided on an "as-is" basis. We do not warrant that the Website will be uninterrupted, error-free, or free of viruses.
                 <p class="my-3"></p>
-               <b>Limitation of Liability:</b>  Golden TradeX LTD shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with the use or inability to use the Website.
+               <b>Limitation of Liability:</b>  {$siteName} LTD shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with the use or inability to use the Website.
                 <p class="my-3"></p>
                 <h3>Privacy Policy:</h3>
                 <p class="my-3"></p>

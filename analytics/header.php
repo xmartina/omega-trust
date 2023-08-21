@@ -8,7 +8,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Analytics | Golden TradeX</title>
+    <title>Analytics | Omega Trust Investment</title>
 
     <link rel="icon" href="img/logo-icon.png">
 
