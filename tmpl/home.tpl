@@ -1,4 +1,6 @@
 {$pageName = "Home"}
+{$siteName = "Omega Trust Investment"}
+{$siteEmail = "contact@omegatrustinvestment.com"}
 {include file="front_header.tpl"}
 
 <!--header end-->
@@ -33,7 +35,7 @@
 
 
 
-                    <p>Discover a world of potential with Golden Tradex. Diversify your portfolio with the timeless allure of precious metals</p>
+                    <p>Discover a world of potential with {$siteName}. Diversify your portfolio with the timeless allure of precious metals</p>
 
 
 
@@ -77,7 +79,7 @@
 
 
 
-                    <h3>Welcome to Golden Tradex</h3>
+                    <h3>Welcome to {$siteName}</h3>
 
 
 
@@ -125,7 +127,7 @@
 
 
 
-                    <h3>Welcome to Golden Tradex</h3>
+                    <h3>Welcome to {$siteName}</h3>
 
 
 
@@ -173,7 +175,7 @@
 
 
 
-                    <h3>Invest in the Future with Golden Tradex</h3>
+                    <h3>Invest in the Future with {$siteName}</h3>
 
 
 
@@ -273,7 +275,7 @@
 
 
 
-                    <p>At Golden Tradex, we recognize that every investor's financial goals and risk tolerance are unique. Our seasoned team of financial experts crafts personalized investment strategies that align precisely with your aspirations.</p>
+                    <p>At {$siteName}, we recognize that every investor's financial goals and risk tolerance are unique. Our seasoned team of financial experts crafts personalized investment strategies that align precisely with your aspirations.</p>
 
 
 
@@ -313,7 +315,7 @@
 
 
 
-                    <p>What sets us apart is our commitment to harnessing cutting-edge technology and data analytics. Golden Tradex leverages advanced market research and data-driven insights to make informed investment decisions.</p>
+                    <p>What sets us apart is our commitment to harnessing cutting-edge technology and data analytics. {$siteName} leverages advanced market research and data-driven insights to make informed investment decisions.</p>
 
 
 
@@ -353,7 +355,7 @@
 
 
 
-                    <p>We believe in empowering our clients through education and transparent communication. Golden Tradex provides in-depth resources, including market insightsn and interactive workshops, to ensure that our clients understand their investment choices. </p>
+                    <p>We believe in empowering our clients through education and transparent communication. {$siteName} provides in-depth resources, including market insightsn and interactive workshops, to ensure that our clients understand their investment choices. </p>
 
 
 
@@ -447,7 +449,7 @@
 
 
 
-                    <h3>Welcome to Golden Tradex </h3>
+                    <h3>Welcome to {$siteName} </h3>
 
 
 

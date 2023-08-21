@@ -1,5 +1,5 @@
 {$pageName = "FAQ"}
-{$siteName = "Golden TradeX LTD"}
+{$siteName = "Omega Trust Investment"}
 {include file="front_header.tpl"}
 
 <section class="featured-area">
@@ -71,7 +71,7 @@
 
 								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
 
-									What is Golden Trade X Investment?
+									What is {$siteName} Investment?
 
 								</button>
 
@@ -79,7 +79,7 @@
 
 							<div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
 
-								<div class="accordion-body">Golden Trade X Investment is a reputable and secure online platform that offers a range of investment opportunities for individuals looking to grow their wealth. Our platform is designed to provide easy access to various investment options, helping you make informed financial decisions.
+								<div class="accordion-body">{$siteName} Investment is a reputable and secure online platform that offers a range of investment opportunities for individuals looking to grow their wealth. Our platform is designed to provide easy access to various investment options, helping you make informed financial decisions.
 								</div>
 
 							</div>
@@ -92,7 +92,7 @@
 
 								<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
 
-									How do I get started with investing on Golden Trade X Investment?
+									How do I get started with investing on {$siteName} Investment?
 
 								</button>
 

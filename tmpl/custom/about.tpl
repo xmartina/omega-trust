@@ -1,6 +1,6 @@
 {$pageName = "About Us"}
 {include file="front_header.tpl"}
-
+{$siteName = "Omega Trust Investment"}
 <section class="featured-area">
 
 
@@ -101,11 +101,11 @@
 
 
 
-          <h3>Welcome to Golden Trade X  <div class="text-15 text-info mt-2">- Your Path to Prosperity</div> </h3>
+          <h3>Welcome to {$siteName}  <div class="text-15 text-info mt-2">- Your Path to Prosperity</div> </h3>
 
 
 
-          <p>At Golden Trade X, we are more than just an investment platform – we are your partners in navigating the exciting world of crypto and stock trading. Our mission is to empower individuals like you to make informed investment decisions and achieve financial success.</p>
+          <p>At {$siteName}, we are more than just an investment platform – we are your partners in navigating the exciting world of crypto and stock trading. Our mission is to empower individuals like you to make informed investment decisions and achieve financial success.</p>
 
 
 
@@ -174,7 +174,7 @@
     <div class="Creativ">
       <div class="h4 my-3">Who We Are:</div>
       <p class="mb-2">
-        Golden Trade X is a premier destination for both seasoned investors and newcomers to the trading scene. With a team of experienced professionals and a dedication to cutting-edge technology, we offer a seamless and secure trading experience that opens doors to a world of possibilities.
+        {$siteName} is a premier destination for both seasoned investors and newcomers to the trading scene. With a team of experienced professionals and a dedication to cutting-edge technology, we offer a seamless and secure trading experience that opens doors to a world of possibilities.
       </p>
       <div class="h4 mb-3">Our Approach: </div>
       <p class="mb-2">
@@ -189,7 +189,7 @@
       </p>
       <div class="h4 mb-3">Join Us:</div>
       <p class="mb-2">
-        Whether you're looking to dip your toes into the world of trading or you're an experienced investor seeking new opportunities, Golden Trade X is your gateway to success. Join us on this journey of growth, learning, and financial achievement.
+        Whether you're looking to dip your toes into the world of trading or you're an experienced investor seeking new opportunities, {$siteName} is your gateway to success. Join us on this journey of growth, learning, and financial achievement.
       </p>
     </div>
   </div>

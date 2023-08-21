@@ -1,5 +1,5 @@
-{$siteName = "Golden Tradex LTD"}
-{$siteEmail = "contact@goldentradex.online"}
+{$siteName = "{$siteName} LTD"}
+{$siteEmail = "contact@omegatrustinvestment.com"}
 <footer class="footer-one">
 
 
