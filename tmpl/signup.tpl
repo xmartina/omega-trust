@@ -1,4 +1,4 @@
-{$SiteName = "Golden TradeX LTD"}
+{$SiteName = "Omega Trust Investment"}
 {$PageTage = "Secured Investment Platform"}
 {$siteLogo = "/img/logo-b.png"}
 {$siteLogoDark = "/img/logo-b.png"}
