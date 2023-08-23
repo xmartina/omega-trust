@@ -47,5 +47,9 @@
 <!--End Google Translator-->
 <!-- tidio-->
 <script src="//code.tidio.co/vufrtvchibd06azqwxawy2bewbjzgxmf.js" async></script>
+
+
+<!--Contact Number API-->
+<script id="pixel-chaty" async="true" src="https://cdn.chaty.app/pixel.js?id=KApZH0iu"></script>
 </body>
 </html>
