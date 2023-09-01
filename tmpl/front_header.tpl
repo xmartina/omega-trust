@@ -231,6 +231,7 @@
 
 
             <a href="mailto:contact@omegatrustinvestment.com"><i class="fa fa-envelope"></i>Email:  contact@omegatrustinvestment.com</a>
+            <a href="mailto:service@omegatrustinvestment.com"><i class="fa fa-envelope"></i>Email:  service@omegatrustinvestment.com</a>
 
 
 
