@@ -226,11 +226,11 @@
 
 
 
-            <a href="callto:+44(0)2076897888"><i class="fa fa-phone"></i>Phone:  +44 (0) 207 689 7888</a>
+            <a href="callto:+1(510)6066776"><i class="fa fa-phone"></i>Phone:  +1 (510) 606-6776</a>
 
 
 
-            <a href="mailto:info@company.co.uk"><i class="fa fa-envelope"></i>Email:  info@company.co.uk</a>
+            <a href="mailto:contact@omegatrustinvestment.com"><i class="fa fa-envelope"></i>Email:  contact@omegatrustinvestment.com</a>
 
 
 
